@@ -6,22 +6,26 @@
         {
             var num = new Random();
             var randomNum = num.Next(1, 4);
+            int guess;
+            do
+            {
+                Console.WriteLine("Guess a number 1-3");
+                guess = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Guess a number 1-3");
-            var guess = int.Parse(Console.ReadLine());
-
-            if (guess < randomNum)
-            {
-                Console.WriteLine("Too Low");
+                if (guess < randomNum)
+                {
+                    Console.WriteLine("Too Low. Guess again.");
+                }
+                else if (guess > randomNum)
+                {
+                    Console.WriteLine("Too High. Guess again.");
+                }
+                else
+                {
+                    Console.WriteLine("You guessed it!");
+                }
             }
-            else if (guess > randomNum)
-            {
-                Console.WriteLine("Too High");
-            }
-            else
-            {
-                Console.WriteLine("You guessed it!");
-            }
+            while (guess != randomNum);
         }
     }
 }

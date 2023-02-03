@@ -1,0 +1,15 @@
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.deps.json
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.runtimeconfig.json
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.dll
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/bin/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.AssemblyReference.cache
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfoInputs.cache
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.AssemblyInfo.cs
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.csproj.CoreCompileInputs.cache
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.dll
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/refint/SelectionStatementExercise.dll
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.pdb
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/SelectionStatementExercise.genruntimeconfig.cache
+/Users/william/Desktop/Repos/SelectionStatementsExercise/SelectionStatementExercise/obj/Debug/net6.0/ref/SelectionStatementExercise.dll
